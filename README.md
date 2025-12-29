@@ -54,4 +54,4 @@ sudo mongorestore --db=genieacs --drop genieacs-backup/genieacs
 🤝 Kontribusi
 Kontribusi selalu diterima! Silakan buat pull request atau laporkan issue jika menemukan bug.
 
-https://wa.me/6285780003093
+https://wa.me/628122087685
