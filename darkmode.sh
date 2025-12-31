@@ -183,7 +183,7 @@ fi
 #Sukses
 echo -e "${GREEN}============================================================================${NC}"
 echo -e "${GREEN}========== GenieACS UI akses port 3000. : http://$local_ip:3000 ============${NC}"
-echo -e "${GREEN}=================   Informasi: Whatsapp 0857-8000-3093 =====================${NC}"
+echo -e "${GREEN}=================   Informasi: Whatsapp 0812-2087-685  =====================${NC}"
 echo -e "${GREEN}============================================================================${NC}"
 cp -r genieacs /usr/lib/node_modules/
 echo -e "${GREEN}Sekarang install parameter. Apakah anda ingin melanjutkan? (y/n)${NC}"
@@ -207,5 +207,5 @@ echo -e "${GREEN}===============================================================
 echo -e "${GREEN}=================== VIRTUAL PARAMETER BERHASIL DI INSTALL. =================${NC}"
 echo -e "${GREEN}=== Edit di Admin >> Provosions >> inform ACS URL ganti ip server ini  =====${NC}"
 echo -e "${GREEN}========== GenieACS UI akses port 3000. : http://$local_ip:3000 ============${NC}"
-echo -e "${GREEN}================== Informasi: Whatsapp 0857-8000-3093 ======================${NC}"
+echo -e "${GREEN}================== Informasi: Whatsapp 0812-2087-685  ======================${NC}"
 echo -e "${GREEN}============================================================================${NC}"

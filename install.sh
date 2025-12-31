@@ -10,7 +10,7 @@ echo -e "${GREEN}========= NN  NN  NN     NN  NN    NN   NN  NN  NNNN     NNNN =
 echo -e "${GREEN}======== NNNNNNNN  NN   NN   NN    NN   NN  NN    NN      NN ===============${NC}"
 echo -e "${GREEN}======= NN      NN  NNNNN    NNNNNNN    NN   NNNNNN       NN ===============${NC}"
 echo -e "${GREEN}============================================================================${NC}"
-echo -e "${GREEN}========================= . Info 0857-8000-3093  ===========================${NC}"
+echo -e "${GREEN}========================= . Info 0812-2087-685   ===========================${NC}"
 echo -e "${GREEN}============================================================================${NC}"
 echo -e "${GREEN}${NC}"
 echo -e "${GREEN}Autoinstall GenieACS.${NC}"
@@ -153,7 +153,7 @@ fi
 #Sukses
 echo -e "${GREEN}============================================================================${NC}"
 echo -e "${GREEN}========== GenieACS UI akses port 3000. : http://$local_ip:3000 ============${NC}"
-echo -e "${GREEN}=================   Informasi: Whatsapp 0857-8000-3093 =====================${NC}"
+echo -e "${GREEN}=================   Informasi: Whatsapp 0812-2087-685  =====================${NC}"
 echo -e "${GREEN}============================================================================${NC}"
 echo -e "${GREEN}Sekarang install parameter. Apakah anda ingin melanjutkan? (y/n)${NC}"
 read confirmation
@@ -175,5 +175,5 @@ echo -e "${GREEN}===============================================================
 echo -e "${GREEN}=================== VIRTUAL PARAMETER BERHASIL DI INSTALL. =================${NC}"
 echo -e "${GREEN}=== Edit di Admin >> Provosions >> inform ACS URL ganti ip server ini  =====${NC}"
 echo -e "${GREEN}========== GenieACS UI akses port 3000. : http://$local_ip:3000 ============${NC}"
-echo -e "${GREEN}================== Informasi: Whatsapp 0857-8000-3093 ======================${NC}"
+echo -e "${GREEN}================== Informasi: Whatsapp 0812-2087-685  ======================${NC}"
 echo -e "${GREEN}============================================================================${NC}"
