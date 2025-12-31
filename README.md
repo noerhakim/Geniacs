@@ -9,7 +9,7 @@ apt install git curl -y
 git clone https://github.com/noerhakim/GeniACS
 ```
 ```
-cd genieacs
+cd GeniACS
 ```
 ```
 chmod +x install.sh && chmod +x darkmode.sh
